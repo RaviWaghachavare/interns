@@ -62,6 +62,7 @@ this is paragraph. **this is bold text** this is _italic_ text
 
 ---helo---
 ~~tilde sign~~
+# italic diff way
 **_three stars_**
 
 [^1]: This is FootNote Content...
