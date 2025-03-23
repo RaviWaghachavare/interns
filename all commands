@@ -1,0 +1,9 @@
+git init.
+git status.
+git add -> add file to staging area.
+git add -A.
+git commit -m "message" finaly file saved to branch cannot be checkout.
+git checkout -> save all changes. 
+git log.
+git diff head.
+
