@@ -71,7 +71,11 @@ this is paragraph. **this is bold text** this is _italic_ text
  ## two
  ### three
  #### four
+
+ # -Blockquote
  > this is blockquote
+
+ # - Unordered List
  - this is dash
  1) number bullet
  1) number bullet
@@ -81,3 +85,35 @@ this is paragraph. **this is bold text** this is _italic_ text
  |-----|--------|
  |td|td|
  |dt|dt|
+
+ > hello kl;sadfh hksdhfkjsh f aiyewqw kjasnvhuiht,3q4mntsiudfuiwr asdkduhetr bsdkjfherj sudye rh
+ asdhkjrhthk
+
+ skjdfsdffksjdfjkher o8uv838t34
+
+ - isooeuwr
+ - isooeuwr
+ - isooeuwr
+
+ 1) ordered
+ 1) ordered
+ 1) ordered
+ 1) ordered
+ 1) .orderserd
+
+ ~~hello how are you~~
+
+ [click here](https://google.com) to google dot com
+
+ [image here](<image.jpg>)
+
+ *italic text*
+ _heloo_
+ _sdg_
+
+# to enter code
+
+`#include code
+hello world`
+`sdf sadf `
+`sddsdfdsfgsdfsd`
