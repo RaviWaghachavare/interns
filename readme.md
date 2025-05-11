@@ -40,15 +40,15 @@ and `sudo apt-get update`
 ~~this~~ is a stroke text...
 mark down file a tricky question...
 
-# single Hash text.
+# single Hash text is bold .
 
 ## two has text.
 
 ### threee hash text.
 
-#### four hash text.
+#### four hash text small.
 
-##### five has text.
+##### five has text hello hey.
 
 ###### six has text.
 
